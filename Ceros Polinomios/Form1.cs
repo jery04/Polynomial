@@ -183,6 +183,7 @@ namespace Ceros_Polinomios
         {
             if (CheckInput(Coeff, Interval))
             {
+                ClearEverything();
                 double intvl1 = Convert.ToDouble(Interval[0].Text);
                 double intvl2 = Convert.ToDouble(Interval[1].Text);
                 double[] poly = GetPoly(Coeff);

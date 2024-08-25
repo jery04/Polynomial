@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\Others\\Ceros Polinomios\\",
+  "WorkspaceRootPath": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\WIndows Forms\\Ceros Polinomios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{636B9CDD-43C0-45DA-904E-0348026E4A33}|Ceros Polinomios\\Ceros Polinomios.csproj|d:\\cibern\u00E9tica\\jery\u0027s projects\\others\\ceros polinomios\\ceros polinomios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{636B9CDD-43C0-45DA-904E-0348026E4A33}|Ceros Polinomios\\Ceros Polinomios.csproj|d:\\cibern\u00E9tica\\jery\u0027s projects\\windows forms\\ceros polinomios\\ceros polinomios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{636B9CDD-43C0-45DA-904E-0348026E4A33}|Ceros Polinomios\\Ceros Polinomios.csproj|solutionrelative:ceros polinomios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{636B9CDD-43C0-45DA-904E-0348026E4A33}|Ceros Polinomios\\Ceros Polinomios.csproj|D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\Others\\Ceros Polinomios\\ceros polinomios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{636B9CDD-43C0-45DA-904E-0348026E4A33}|Ceros Polinomios\\Ceros Polinomios.csproj|D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\WIndows Forms\\Ceros Polinomios\\ceros polinomios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{636B9CDD-43C0-45DA-904E-0348026E4A33}|Ceros Polinomios\\Ceros Polinomios.csproj|solutionrelative:ceros polinomios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{636B9CDD-43C0-45DA-904E-0348026E4A33}|Ceros Polinomios\\Ceros Polinomios.csproj|D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\Others\\Ceros Polinomios\\ceros polinomios\\form1.designer.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{636B9CDD-43C0-45DA-904E-0348026E4A33}|Ceros Polinomios\\Ceros Polinomios.csproj|D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\WIndows Forms\\Ceros Polinomios\\ceros polinomios\\form1.designer.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{636B9CDD-43C0-45DA-904E-0348026E4A33}|Ceros Polinomios\\Ceros Polinomios.csproj|solutionrelative:ceros polinomios\\form1.designer.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\Others\\Ceros Polinomios\\Ceros Polinomios\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\WIndows Forms\\Ceros Polinomios\\Ceros Polinomios\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Ceros Polinomios\\Form1.Designer.cs",
-              "ToolTip": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\Others\\Ceros Polinomios\\Ceros Polinomios\\Form1.Designer.cs",
+              "ToolTip": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\WIndows Forms\\Ceros Polinomios\\Ceros Polinomios\\Form1.Designer.cs",
               "RelativeToolTip": "Ceros Polinomios\\Form1.Designer.cs",
               "ViewState": "AQIAALoAAAAAAAAAAAAAANIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,11 +49,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\Others\\Ceros Polinomios\\Ceros Polinomios\\Form1.cs",
+              "DocumentMoniker": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\WIndows Forms\\Ceros Polinomios\\Ceros Polinomios\\Form1.cs",
               "RelativeDocumentMoniker": "Ceros Polinomios\\Form1.cs",
-              "ToolTip": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\Others\\Ceros Polinomios\\Ceros Polinomios\\Form1.cs",
+              "ToolTip": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\WIndows Forms\\Ceros Polinomios\\Ceros Polinomios\\Form1.cs",
               "RelativeToolTip": "Ceros Polinomios\\Form1.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAKsAAAAkAAAA",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAQwLkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T02:56:07.71Z",
               "EditorCaption": ""
@@ -62,9 +62,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\Others\\Ceros Polinomios\\Ceros Polinomios\\Form1.cs",
+              "DocumentMoniker": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\WIndows Forms\\Ceros Polinomios\\Ceros Polinomios\\Form1.cs",
               "RelativeDocumentMoniker": "Ceros Polinomios\\Form1.cs",
-              "ToolTip": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\Others\\Ceros Polinomios\\Ceros Polinomios\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "D:\\Cibern\u00E9tica\\Jery\u0027s Projects\\WIndows Forms\\Ceros Polinomios\\Ceros Polinomios\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ceros Polinomios\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T02:11:20.614Z",

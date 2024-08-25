@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cibernética\\Jery's Projects\\Others\\Ceros Polinomios\\Ceros Polinomios\\Ceros Polinomios.csproj": {}
+    "D:\\Cibernética\\Jery's Projects\\WIndows Forms\\Ceros Polinomios\\Ceros Polinomios\\Ceros Polinomios.csproj": {}
   },
   "projects": {
-    "D:\\Cibernética\\Jery's Projects\\Others\\Ceros Polinomios\\Ceros Polinomios\\Ceros Polinomios.csproj": {
+    "D:\\Cibernética\\Jery's Projects\\WIndows Forms\\Ceros Polinomios\\Ceros Polinomios\\Ceros Polinomios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cibernética\\Jery's Projects\\Others\\Ceros Polinomios\\Ceros Polinomios\\Ceros Polinomios.csproj",
+        "projectUniqueName": "D:\\Cibernética\\Jery's Projects\\WIndows Forms\\Ceros Polinomios\\Ceros Polinomios\\Ceros Polinomios.csproj",
         "projectName": "Ceros Polinomios",
-        "projectPath": "D:\\Cibernética\\Jery's Projects\\Others\\Ceros Polinomios\\Ceros Polinomios\\Ceros Polinomios.csproj",
+        "projectPath": "D:\\Cibernética\\Jery's Projects\\WIndows Forms\\Ceros Polinomios\\Ceros Polinomios\\Ceros Polinomios.csproj",
         "packagesPath": "C:\\Users\\JERY\\.nuget\\packages\\",
-        "outputPath": "D:\\Cibernética\\Jery's Projects\\Others\\Ceros Polinomios\\Ceros Polinomios\\obj\\",
+        "outputPath": "D:\\Cibernética\\Jery's Projects\\WIndows Forms\\Ceros Polinomios\\Ceros Polinomios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JERY\\AppData\\Roaming\\NuGet\\NuGet.Config",
