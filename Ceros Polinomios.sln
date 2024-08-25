@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceros Polinomios", "Ceros Polinomios\Ceros Polinomios.csproj", "{636B9CDD-43C0-45DA-904E-0348026E4A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636B9CDD-43C0-45DA-904E-0348026E4A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636B9CDD-43C0-45DA-904E-0348026E4A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636B9CDD-43C0-45DA-904E-0348026E4A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636B9CDD-43C0-45DA-904E-0348026E4A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A04EDB6B-BBD0-4B4A-A4A5-E3E7F756EF1E}
+	EndGlobalSection
+EndGlobal
