@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ceros Polinomios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e95c065b2072fb387bf1fca64f0073b33e930a27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7b4bcc3614d1d10af74c3efaeddb86bdab954db")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ceros Polinomios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ceros Polinomios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

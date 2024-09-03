@@ -15,3 +15,20 @@ D:\Cibernética\Jery's Projects\Others\Ceros Polinomios\Ceros Polinomios\obj\Deb
 D:\Cibernética\Jery's Projects\Others\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\Ceros Polinomios.pdb
 D:\Cibernética\Jery's Projects\Others\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\Ceros Polinomios.genruntimeconfig.cache
 D:\Cibernética\Jery's Projects\Others\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\ref\Ceros Polinomios.dll
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\bin\Debug\net8.0-windows\Ceros Polinomios.exe
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\bin\Debug\net8.0-windows\Ceros Polinomios.deps.json
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\bin\Debug\net8.0-windows\Ceros Polinomios.runtimeconfig.json
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\bin\Debug\net8.0-windows\Ceros Polinomios.dll
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\bin\Debug\net8.0-windows\Ceros Polinomios.pdb
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\Ceros_Polinomios.Form1.resources
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\Ceros_Polinomios.Properties.Resources.resources
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\Ceros Polinomios.csproj.GenerateResource.cache
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\Ceros Polinomios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\Ceros Polinomios.AssemblyInfoInputs.cache
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\Ceros Polinomios.AssemblyInfo.cs
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\Ceros Polinomios.csproj.CoreCompileInputs.cache
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\Ceros Polinomios.dll
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\refint\Ceros Polinomios.dll
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\Ceros Polinomios.pdb
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\Ceros Polinomios.genruntimeconfig.cache
+D:\Cibernética\Jery's Projects\WIndows Forms\Ceros Polinomios\Ceros Polinomios\obj\Debug\net8.0-windows\ref\Ceros Polinomios.dll
